@@ -1,4 +1,5 @@
 return{
+    ["panda idle"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/panda%20idle.lua",
     ["glitched idle fr"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/glitched%20idle%20fr.lua",
     ["yurs idle"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/yursidle.lua",
     ["Killuas idle rot"] = "https://static.rawth.net/b/5c39f4bf373f85a3fecb5c1955e61e09/Killuas%20idle%20rot.lua",
