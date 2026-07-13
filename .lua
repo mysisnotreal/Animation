@@ -1,4 +1,5 @@
 return{
+    ["yurs idle"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/yursidle.lua",
     ["Killuas idle rot"] = "https://static.rawth.net/b/5c39f4bf373f85a3fecb5c1955e61e09/Killuas%20idle%20rot.lua",
     ["100 saal hai"] = "https://static.rawth.net/b/3c62d1202f28491c977f8e35c8d10696/Rootleak-Animations-620917f/100%20saal%20hai.lua",
     ["100% Pure Love"] = "https://static.rawth.net/b/3c62d1202f28491c977f8e35c8d10696/Rootleak-Animations-620917f/100%25%20Pure%20Love.lua",
