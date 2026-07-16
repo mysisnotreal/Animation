@@ -1,4 +1,5 @@
 return{
+    ["yur / yur just the way you are"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/yur%20just%20the%20way%20you%20are.lua",
     ["yur / yur lovin on me"] = "https://github.com/mysisnotreal/Animation/raw/refs/heads/main/Packs/yur%20lovin%20on%20me.lua",
     ["panda idle"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/panda%20idle.lua",
     ["glitched idle fr"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/glitched%20idle%20fr.lua",
