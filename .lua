@@ -1,4 +1,5 @@
 return{
+    ["testanim2"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/testanim2.lua",
     ["testanim"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/testanim.lua",
     ["yur / yur just the way you are"] = "https://raw.githubusercontent.com/mysisnotreal/Animation/refs/heads/main/Packs/yur%20just%20the%20way%20you%20are.lua",
     ["yur / yur lovin on me"] = "https://github.com/mysisnotreal/Animation/raw/refs/heads/main/Packs/yur%20lovin%20on%20me.lua",
